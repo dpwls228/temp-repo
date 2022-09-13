@@ -3,7 +3,7 @@
 #### What we learned in today's class
 #### -Creating a repository from exsting one
 #### -Git branches 
-#####   main branch = master or main
+#####       main branch = master or main
 #### -Create a new branxch
 #### -Commit a new file
 #### -Open a pull request
